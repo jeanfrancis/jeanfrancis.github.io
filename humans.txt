@@ -1,0 +1,12 @@
+/* TEAM */
+Developer & Designer: Jean-Francis Ahanda
+Twitter: @jeanfrancis
+Site: http://www.jeanfrancisahanda.cm
+Location: Douala, CAMEROON
+						
+
+/* SITE */
+Last update: 2016/01/17
+Standards: HTML5, CSS3
+Components: Jekyll
+Software: Sublime Text, Photoshop

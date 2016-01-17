@@ -1,0 +1,28 @@
+# Site settings
+title: Jean-francis Ahanda
+description: 'Consultant #Telecom #Cloud and #IT , love travel and food.'
+url: 'http://www.jeanfrancisahanda.cm' 
+baseurl: '/'
+google_analytics: 'UA-24417187-3'
+
+author:
+  name: 'Jean Francis Ahanda'
+  email: contact@jeanfrancisahanda.cm
+  twitter_username: jeanfrancis
+  github_username:  jeanfrancis
+  linkedin_username:  jeanfrancisahanda
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'src']

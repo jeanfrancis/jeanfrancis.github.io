@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://www.jeanfrancisahanda.cm/sitemap.xml
+Disallow: /ghost/
