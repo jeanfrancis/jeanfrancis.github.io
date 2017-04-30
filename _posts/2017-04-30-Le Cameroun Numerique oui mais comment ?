@@ -1,8 +1,9 @@
-layout	title	date	tags
-post
-Le Cameroun Numerique oui mais comment ?
-2017-04-30 23:28:00
-numerique
+---
+layout: post
+title: Le Cameroun Numerique oui mais comment ? 
+date: '2017-04-30 23:28:00'
+tags: [numerique]
+---
 
 On parle d'economie numerique au Cameroun tous les jours maintenant mais concretement ou est le Un schéma directeur d’aménagement numérique ?
 
